@@ -1,3 +1,5 @@
+This is not in use now!
+
 # Biscuit Pool Index
 Here you can register a pool and install it with:
 `bfetcher {biscuit} {library}#pool:{pool}`
