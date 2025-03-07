@@ -1,0 +1,9 @@
+pools:
+  - pool: store
+    type: github
+    owner: isobiscuit
+    repo: store
+    hash: cecff5475b2a2869d17412898321a96453df5417
+    
+
+    
