@@ -1,0 +1,4 @@
+[submodule "biscuit"]
+	path = store
+	url = https://github.com/isobiscuit/store
+	
